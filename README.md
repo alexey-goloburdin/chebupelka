@@ -2,6 +2,8 @@
 
 Минимальный агент-помощник для программирования, который общается с LLM через OpenAI-compatible API и выполняет команды bash.
 
+Смотри YouTube видео о разработке этого агента [https://www.youtube.com/watch?v=H7FSTj4x4xQ](https://www.youtube.com/watch?v=H7FSTj4x4xQ).
+
 ## Возможности
 
 - **Tool calling** — модель вызывает инструменты (по умолчанию `bash`)
